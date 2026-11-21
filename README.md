@@ -1,4 +1,4 @@
-# ChandiSVRPBench (`chandisvrp`)
+# ChandiSVRPBench (`chandisvrp`) - Stochastic Vehicle Routing
 
 A modular, runnable benchmark scaffold for **stochastic vehicle routing** on Chandigarh-like road networks.
 
